@@ -26,11 +26,14 @@ a:hover {
 	color: rgb(235, 117, 14);
 }
 .inner-img {
-	max-width: 90%;
+	max-width: 800px;
 	display: block;
 	margin: 35px auto;
 	border-radius: 15px;
 }
 .inner-link {
 	color: blue;
+}
+.inner-link:hover {
+	color: rgb(112, 112, 240);
 }
